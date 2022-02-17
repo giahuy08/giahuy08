@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giahuy08&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/coding.gif" />
 
 ![divider](./images/divider.gif)
 
