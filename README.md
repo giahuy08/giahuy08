@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I’m GiaHuy08! 
 
-<img align="right" width=200px height=200px alt="side_sticker" border-radius=50% src="./images/code.gif" />
+<img align="right" width=400px height=400px alt="side_sticker" src="./images/code.gif" />
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
