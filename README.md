@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giahuy08&theme=dark&show_icons=true)
+# Hi, I’m GiaHuy08! 
+
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
+
+### <img src="./images/stats.gif" width="30px"> ***About Me***
+
+* 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
+* 🏆 I usually work with ***PHP language***
+* 📫 Ask me anything you want [**here**](https://github.com/nguyenary/nguyenary/issues), If I were alive, I would reply within seconds 😉
+* 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giahuy08&theme=radical&show_icons=true)
