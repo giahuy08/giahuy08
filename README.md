@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/coding.gif" />
+
 
 ### ***🛠 Tools & Technologies***
 
@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giahuy08&theme=radical&show_icons=true)
 
 <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giahuy08&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/coding.gif" />
 
 ![divider](./images/divider.gif)
 
