@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/coding.gif" />
+
 ### ***🛠 Tools & Technologies***
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -36,6 +38,8 @@ Here are some ideas to get you started:
 
 
 <br>
+
+### ***📊 GitHub Profile Stats***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giahuy08&theme=radical&show_icons=true)
 
