@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
 * 🏆 I usually work with ***Flutter*** ***NodeJS*** ***.NET*** 🤔
-* 😄 Fun fact: I am always trying to learn new things ⚡
+* 😄 I am always trying to learn new things ⚡
 
 <br>
 
