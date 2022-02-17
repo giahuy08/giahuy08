@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🌱 I'm learning ***Javascript*** ***Dart*** 😍
-* 🏆 I usually work with ***Flutter*** ***NodeJS*** 🤔
+* 🏆 I usually work with ***Flutter*** ***NodeJS*** ***.NET*** 🤔
 * 😄 Fun fact: I am always trying to learn new things ⚡
 
 <br>
@@ -40,12 +39,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giahuy08&theme=radical&show_icons=true)
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br>
-   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nguyenary&custom_title=nguyenary's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  <br/>
-</details>
+<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giahuy08&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
 ![divider](./images/divider.gif)
 
